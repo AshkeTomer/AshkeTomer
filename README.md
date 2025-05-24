@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Node.js and Express as well as UI/UX principles**
 
-- 👨‍💻 All of my projects are available at [my GitHub profile](my GitHub profile)
+- 👨‍💻 All of my projects are available at my GitHub profile
 
 - 📫 How to reach me **ashketomer@gmail.com**
 
