@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tomer</h1>
-<h3 align="center">A passionate frontend developer from Israel</h3>
+<h3 align="center">I'm a passionate developer from Israel</h3>
 
-- 🔭 I’m currently working on **AI powered job tracking website**
+- 🔭 I’m currently working on an **AI powered job tracking website**
 
 - 🌱 I’m currently learning **ReactJS, Node.js and Express as well as UI/UX principles**
 
-- 👨‍💻 All of my projects are available at my **GitHub profile**
+- 👨‍💻 Most of my projects are available at my **GitHub profile, some projects are private due to NDAs**
 
-- 📫 How to reach me **ashketomer@gmail.com**
+- 📫 You can reach me at **ashketomer@gmail.com**
 
 - 🎮 Fun fact about me **I enjoy gaming on my free time**
 
